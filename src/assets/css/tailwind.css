@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-Inter bg-black w-full min-h-screen
+    }
+}
+
+@layer components {
+    .border-gradient::before {
+        background: radial-gradient(300px circle at var(--x) var(--y), #1cd1c6 0, var(--color) 50%, transparent 100%);
+    }
+
+    @keyframes logo-spin {
+        from {
+          transform: rotate(0deg);
+        }
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      
+      @media (prefers-reduced-motion: no-preference) {
+        .logo {
+          animation: logo-spin infinite 10s linear;
+        }
+      }
+      
+}
