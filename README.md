@@ -1,6 +1,6 @@
 # ReactJs Kenya Starter Template
 
-A React.js Kenya starter template built with TypeScript and packed with powerful features to kickstart your web application development.
+A React.js Kenya starter template built with TypeScript and packed with powerful features to kickstart and enhance your web application development.
 
 ## Features
 
