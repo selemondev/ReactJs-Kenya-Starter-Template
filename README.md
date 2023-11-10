@@ -15,7 +15,8 @@ A React.js Kenya starter template built with TypeScript and packed with powerful
 - 🎨 **Tailwind CSS**: Utility-first CSS framework for efficient styling.
 - 🧰 **Ni**: Ni is a package that enables you to use the right package manager for your project..
 - 🧩 **Use hooks**: A collection of modern, server-safe React hooks built to enhance the developer experience when building React apps.
-- 🦑 Testing library: A lightweight tool designed for testing web pages. It facilitates querying and interacting with DOM nodes in the browser environment.
+- 🦑 **Testing library**: A lightweight tool designed for testing web pages. It facilitates querying and interacting with DOM nodes in the browser environment.
+- ⚙️ **Zero Config Deploy**: Deploy to Netlify without any configuration.
 
 
 ## Pre-packed
